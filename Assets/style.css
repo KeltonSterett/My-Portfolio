@@ -77,6 +77,8 @@ aside {
     width: 30%;
     margin: 20px;   
     padding: 50px;
+    font-size: 30px;
+   
 
 }
 
@@ -89,6 +91,31 @@ section {
     background-color: tan;
     color: black;
 }
+
+.container {
+    position: relative;
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(15, 15, 15);
+}
+
+h4 { 
+font-size: 25px;
+color: black;
+}
+
+.li {
+    background-color: tan;
+    width: 30%;
+    margin: 20px;   
+    padding: 50px;
+
+}
+.img-1 {
+    width: 100%;
+}
 /* made content in main responsive */
 main {
     display: flex;
@@ -98,5 +125,15 @@ main {
 html {
     scroll-behavior: smooth;
 }
+ footer {
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    background-color: tan;
+    color: rgb(2, 2, 2);
+ }
 
+ footer h2 {
+    text-align: center;
+ }
 
