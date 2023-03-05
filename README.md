@@ -10,5 +10,7 @@
 7. i finished by putting my final css touches and organizing my code a little bettter to make it more readable.
 
 ## Deployed App link and Screenshot
-Deployed link:
-Screenshot
+Deployed link: https://keltonsterett.github.io/My-Portfolio/
+
+Screenshot: 
+![Screenshot 2023-03-04 194638](https://user-images.githubusercontent.com/124960295/222938918-e61baa93-8532-44b7-93cf-7aacfa59bcc4.png)
